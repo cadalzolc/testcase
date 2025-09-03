@@ -1,4 +1,4 @@
-# Website Improvement Plan: Lab Test Solutions Booking Workflow
+# Initial Website Improvement Plan: Lab Test Solutions Booking Workflow
 
 ## 1. Overview
 
